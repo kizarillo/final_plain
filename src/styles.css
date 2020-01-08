@@ -1,7 +1,8 @@
 body {
-  background-color: white;
+  background-color: #f2d391;
 }
 #app {
+  margin: 150;
   text-align: justify;
-  text-decoration-color: blue;
+  font-size: 30px;
 }
